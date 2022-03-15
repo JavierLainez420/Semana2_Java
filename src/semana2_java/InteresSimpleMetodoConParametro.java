@@ -9,6 +9,6 @@ package semana2_java;
  *
  * @author ITCA
  */
-public class Ejemplo3 {
+public class InteresSimpleMetodoConParametro {
     
 }

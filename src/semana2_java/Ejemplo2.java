@@ -50,7 +50,6 @@ public class Ejemplo2 {
     private static String metodoConParametrosString(String valorString) {
         System.out.println("El Valor String es: " + valorString);
         return valorString;
-   
     }
     
 }
